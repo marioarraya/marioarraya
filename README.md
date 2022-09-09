@@ -5,7 +5,7 @@
 - 🌱 Currently learning Three.js, feel free to share your favorite scenes!
 - 👯 Looking to collaborate and get my feet wet with Web3, have a project in mind?
 - 📫 Email me at mario@studio48.io
-- ⚡ !success ? try() : die();
+- ⚡ !success ? try() : tryAgain();
 
 
 ### Technologies I work with
