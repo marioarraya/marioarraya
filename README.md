@@ -1,5 +1,5 @@
 - 😄 Front-end engineer, life-long tech enthusiast, and lover of cats. (I have 2!)
-- 🔭 Dabbler of scatter-brained projects and TDD evangelist.
+- 🔭 Dabbler of scatter-brained projects.
 - 🌱 Currently learning Three.js, feel free to share your favorite scenes!
 - 👯 Looking to collaborate and get my feet wet with Web3, have a project in mind?
 - 📫 Email me at mario@studio48.io
