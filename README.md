@@ -1,6 +1,4 @@
-# Hey there! 👋
-### I'm Mario, nice to meet you.
-- 😄 I'm a front-end software engineer, life-long tech enthusiast, and lover of cats. (I have 2!)
+- 😄 Front-end software engineer, life-long tech enthusiast, and lover of cats. (I have 2!)
 - 🔭 Dabbler of scatter-brained projects and TDD evangelist.
 - 🌱 Currently learning Three.js, feel free to share your favorite scenes!
 - 👯 Looking to collaborate and get my feet wet with Web3, have a project in mind?
